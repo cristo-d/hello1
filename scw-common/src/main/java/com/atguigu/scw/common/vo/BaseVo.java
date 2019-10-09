@@ -7,4 +7,6 @@ import lombok.Data;
 public class BaseVo {
 
 	private String accessToken;//用戶登录成功的token
+	
+	public void test(){}
 }
